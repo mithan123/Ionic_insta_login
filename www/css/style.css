@@ -1,0 +1,50 @@
+/* Empty. Add your own CSS if you like */
+.pane{
+	background:url("../img/back.png") no-repeat center center fixed;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+    background-size:cover;
+}
+.bar .title{
+	color: #fff;
+	font-size: 18px;
+}
+img {
+   margin: 0 auto;
+    display: block;
+    width: 59%;
+    padding-top: 95px;
+}
+.bar-footer {
+   background: #ad3795;
+    border-top: 2px solid #fff;
+}
+.item-input {
+    padding: 9px 0 5px 17px;
+    margin: 13px 28px;
+    border-radius: 5px;
+        background: transparent;
+}
+.button.button-block{
+   padding: 5px;
+    width: 85%;
+    margin: 0 auto;
+    font-size: 17px;
+    color: #fff;
+    background: transparent;
+    font-weight: bold;
+    border: 3px solid #ffffff45;
+}
+.bar.bar-assertive {
+    border-color: transparent;
+    background-color: transparent;
+    color: #fff;
+}
+a {
+   color: #fff;
+    font-size: 15px;
+    margin: 0 auto;
+    display: block;
+        padding: 11px 33px;
+}
